@@ -6,7 +6,7 @@ This is AL AMIN. I came to South Korea in 2019 for persuing integrated PhD in IN
 
 Currently, I have been working on Machine Leaarning algorithm, Artifiticial Intelligence on IoT devices. 
 
-This is my Github profile: [editor on GitHub](https://github.com/alaminanik)
+This is my Github profile: [alaminanik](https://github.com/alaminanik)
 
 ### Markdown
 
