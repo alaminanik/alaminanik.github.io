@@ -1,10 +1,12 @@
-## INTRODUCTION
+## INTRODUCTION OF MYSELF
 
 This is AL AMIN. I came to South Korea in 2019 for persuing integrated PhD in INHA University. Along with that i have been working as a Researcher also in ISMELA laboratory. I have completed Bachelor in Computer Science and Engineering in the year of 2014 from International University of Business Agriculture and Technology, Dhaka, Bangladesh. 
 
-You can use the [editor on GitHub](https://github.com/alaminanik/alaminanik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## RESEARCH INTEREST
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, I have been working on Machine Leaarning algorithm, Artifiticial Intelligence on IoT devices. 
+
+This is my Github profile: [editor on GitHub](https://github.com/alaminanik)
 
 ### Markdown
 
